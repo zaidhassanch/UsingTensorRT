@@ -1,5 +1,5 @@
 # UsingTensorRT
-A simple method for using TensorRT. Please provide feedback.
+A relevant code snippets for using TensorRT. Please provide feedback.
 
 I recommend using nvidia docker which gives TensorRT and drivers pre-installed. The following could be a useful link for pulling the code:
 https://marmelab.com/blog/2018/03/21/using-nvidia-gpu-within-docker-container.html
