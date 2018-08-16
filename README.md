@@ -22,3 +22,5 @@ Output node once identified can be used in tensorflow using the sess.run call.
 
 Use the script by calling its infer function:
 The code will be made available in the near future.
+
+Tip: The Code is currently implemented to ensure that the same session is used for every call. Not using the same session can lead to a 10x degradation in performance. 
