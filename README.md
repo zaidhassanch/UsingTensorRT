@@ -12,8 +12,7 @@ At the time of writing the tensorflow version 1.8 was compatible with this Tenso
 Save the existing Keras graph into a pb file:
 The code has been shared. The model files will be shared soon.
 
-Read the graph back in: 
-Code is in load graph
+#Read in load graph
 
 
 Identify the required input and output nodes:
